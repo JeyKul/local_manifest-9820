@@ -39,6 +39,6 @@
   <project name="android_hardware_samsung" path="hardware/samsung" remote="fourteen"/>
 
   <!-- Kernel -->
-  <project name="kernel_samsung_exynos9820" path="kernel/samsung/exynos9820" remote="fourteen"/>
+  <project name="android_kernel_samsung_exynos9820" path="kernel/samsung/exynos9820" remote="fourteen"/>
 
 </manifest>
