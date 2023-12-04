@@ -15,7 +15,6 @@
   <project name="android_device_samsung_d2s" path="device/samsung/d2s" remote="fourteen"/>
   <project name="android_device_samsung_d2x" path="device/samsung/d2x" remote="fourteen"/>
   <project name="android_device_samsung_f62" path="device/samsung/f62" remote="fourteen"/>
-  <project name="android_device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" remote="fourteen"/>
 
   <!-- Vendor -->
   <project name="android_vendor_samsung_exynos9820-common" path="vendor/samsung/exynos9820-common" remote="fourteen"/>
